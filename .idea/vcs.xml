@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Deep-Reinforcement-Learning-for-5G-Networks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Drone_RL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UAV3Dbeamforming" vcs="Git" />
+  </component>
+</project>
