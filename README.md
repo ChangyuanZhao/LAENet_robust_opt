@@ -6,7 +6,7 @@ This repository implements a **diffusion model-based optimization framework** fo
 
 ## 📂 Directory Structure
 
-- `model/model.py`  
+- `diffusion/model.py`  
   Contains the **diffusion model** and **MoE-Transformer actor network** implementation.
 
 - `env/env_uav.py`  
