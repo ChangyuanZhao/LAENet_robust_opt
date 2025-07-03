@@ -25,6 +25,8 @@ This repository implements a **diffusion model-based optimization framework** fo
 ```bash
 python MoE_trans_GDM.py
 
+---
+
 ## 🔧 Based On
 
 This project builds upon the [GDMOPT repository](https://github.com/HongyangDu/GDMOPT) by Hongyang Du, with additional enhancements for MoE-based, uncertainty-aware optimization in diffusion-driven wireless systems.
